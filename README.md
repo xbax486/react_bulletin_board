@@ -1,6 +1,6 @@
 ![react_bulletinboard](https://cloud.githubusercontent.com/assets/12993446/9025016/86527ec8-3933-11e5-8d95-5c49cc8e9136.jpeg)
 
-This is a simple bulletin_board application built using React. It allows you to add, edit and delete notes on the board. I also upload an image to show how the app should look while running. 
+This is a simple bulletin_board application built using React. It allows you to add, edit and delete notes on the board.
 
 Few things to know:
 
